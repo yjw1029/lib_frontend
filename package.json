@@ -1,0 +1,21 @@
+{
+  "name": "lib_koa",
+  "version": "1.0.0",
+  "description": "db homwork",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yjw",
+  "license": "ISC",
+  "dependencies": {
+    "jshint": "^2.9.6",
+    "koa": "^2.6.2",
+    "koa-bodyparser": "^3.2.0",
+    "koa-mysql-session": "0.0.2",
+    "koa-router": "^7.4.0",
+    "koa-session-minimal": "^3.0.4",
+    "koa2-cors": "^2.0.6",
+    "mysql": "^2.16.0"
+  }
+}
